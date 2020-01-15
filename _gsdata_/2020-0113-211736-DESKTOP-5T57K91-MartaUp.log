@@ -1,0 +1,7 @@
+2020-01-13 21:18:22: == Синхронизация начата Continue After User Wait
+2020-01-13 21:18:25: Waiting for 8(120) sec on verb GET: Server says: Forbidden (status code 403): Rate Limit Exceeded
+2020-01-13 21:18:34: Recovered the connection, continuing operations
+2020-01-13 21:18:34: Скопировано поверх 'C:/Users/notau/OneDrive/Рабочий стол/martaup/css/style.css' -> 'gdrive://www.googleapis.com/2K20/january/css/style.css' (1 989)
+- ОШИБКА: move file: lookup source: item not found (2)
+2020-01-13 21:18:39: == Синхронизация завершена. Время: 00:00:18, Скорость: 0 байт/s, Синхронизировано: 0, Ошибок: 1
+2020-01-13 21:18:40: 

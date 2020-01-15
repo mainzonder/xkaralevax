@@ -1,0 +1,8 @@
+2020-01-12 18:48:53: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2020-01-12 18:48:54: -- Анализ запущен On File Change, After Delay
+2020-01-12 18:48:58: Изменения: 1, Конфликты: 0, Копии времени: 0, Состояние: 0, Ошибки: 0, All: 1161
+2020-01-12 18:48:58: Left to Right: Copy File: 1 
+2020-01-12 18:48:58: == Синхронизация начата On File Change, After Delay
+2020-01-12 18:49:04: Скопировано поверх 'C:/Users/notau/OneDrive/Рабочий стол/martaup/css/style.css' -> 'gdrive://www.googleapis.com/2K20/january/css/style.css' (68)
+2020-01-12 18:49:08: == Синхронизация завершена. Время: 00:00:10, Скорость: 11 байт/s, Синхронизировано: 1, Ошибок: 0
+2020-01-12 18:49:10: 

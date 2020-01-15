@@ -1,0 +1,10 @@
+2020-01-13 22:32:23: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2020-01-13 22:32:23: -- Анализ запущен On File Change, After Delay
+2020-01-13 22:32:28: Изменения: 1, Конфликты: 0, Копии времени: 0, Состояние: 0, Ошибки: 0, All: 2321
+2020-01-13 22:32:28: Left to Right: Copy File: 1 
+2020-01-13 22:32:28: == Синхронизация начата On File Change, After Delay
+2020-01-13 22:32:38: Скопировано поверх 'C:/Users/notau/OneDrive/Рабочий стол/martaup/js/main.js' -> 'gdrive://www.googleapis.com/2K20/january/js/main.js' (46)
+2020-01-13 22:32:44: == Синхронизация завершена. Время: 00:00:16, Скорость: 4 байт/s, Синхронизировано: 1, Ошибок: 0
+2020-01-13 22:32:44: Waiting for 8(120) sec on verb GET: Server says: Forbidden (status code 403): Rate Limit Exceeded
+2020-01-13 22:32:53: Recovered the connection, continuing operations
+2020-01-13 22:32:56: 

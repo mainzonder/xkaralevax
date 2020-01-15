@@ -1,0 +1,13 @@
+2020-01-12 13:12:32: On File Change Monitoring started on file:///C:/Users/notau/OneDrive/Рабочий стол/martaup
+2020-01-12 13:12:33: On File Change Monitoring started on gdrive://www.googleapis.com/2K20/january
+2020-01-12 13:12:34: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2020-01-12 13:12:34: -- Анализ запущен On File Change First Full Analyze Upon File Monitoring Start
+2020-01-12 13:12:42: Изменения: 4, Конфликты: 0, Копии времени: 0, Состояние: 0, Ошибки: 0, All: 13
+2020-01-12 13:12:42: Left to Right: Copy File: 4 
+2020-01-12 13:12:42: == Синхронизация начата On File Change First Full Analyze Upon File Monitoring Start
+2020-01-12 13:12:43: Созданная папка 'gdrive://www.googleapis.com/2K20/january/marafon2020p1'
+2020-01-12 13:13:02: Скопирован новый 'C:/Users/notau/OneDrive/Рабочий стол/martaup/marafon2020p1/marafon.fig' -> 'gdrive://www.googleapis.com/2K20/january/marafon2020p1/marafon.fig' (1 634 975)
+2020-01-12 13:13:05: Скопирован новый 'C:/Users/notau/OneDrive/Рабочий стол/martaup/marafon2020p1/start.rar' -> 'gdrive://www.googleapis.com/2K20/january/marafon2020p1/start.rar' (1 477)
+2020-01-12 13:13:09: Скопирован новый 'C:/Users/notau/OneDrive/Рабочий стол/martaup/marafon2020p1/start.zip' -> 'gdrive://www.googleapis.com/2K20/january/marafon2020p1/start.zip' (2 136)
+2020-01-12 13:13:13: == Синхронизация завершена. Время: 00:00:31, Скорость: 60,1 КБ/s, Синхронизировано: 4, Ошибок: 0
+2020-01-12 13:13:15: 

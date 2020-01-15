@@ -1,0 +1,9 @@
+2020-01-12 18:33:49: On File Change Monitoring started on file:///C:/Users/notau/OneDrive/Рабочий стол/martaup
+2020-01-12 18:33:49: On File Change Monitoring started on gdrive://www.googleapis.com/2K20/january
+2020-01-12 18:33:50: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2020-01-12 18:33:50: -- Анализ запущен On File Change First Full Analyze Upon File Monitoring Start
+2020-01-12 18:34:07: File ModTime changed but CheckSum remains the same, request CopyState: /Создаем динамические веб-сайты (2019)/Code examples (5th edition)/20/example20-2.js
+2020-01-12 18:34:08: Изменения: 0, Конфликты: 0, Копии времени: 0, Состояние: 1, Ошибки: 0, All: 1160
+2020-01-12 18:34:08: == Синхронизация начата On File Change First Full Analyze Upon File Monitoring Start
+2020-01-12 18:34:12: == Синхронизация завершена. Время: 00:00:04, Скорость: 0 байт/s, Синхронизировано: 1, Ошибок: 0
+2020-01-12 18:34:15: 

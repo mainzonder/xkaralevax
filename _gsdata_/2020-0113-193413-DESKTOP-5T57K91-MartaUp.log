@@ -1,0 +1,9 @@
+2020-01-13 19:34:16: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2020-01-13 19:34:16: -- Анализ запущен On File Change, After Delay
+2020-01-13 19:34:21: Изменения: 1, Конфликты: 0, Копии времени: 0, Состояние: 0, Ошибки: 0, All: 2317
+2020-01-13 19:34:21: Left to Right: Copy File: 1 
+2020-01-13 19:34:21: == Синхронизация начата On File Change, After Delay
+2020-01-13 19:34:28: C:/Users/notau/OneDrive/Рабочий стол/martaup/index.html: Source file has changed between Analyze and Sync from '[file] size=2 270 accu-time=2020-01-13 19:33:55 attr=Archive cktype=0' to 'size=2 272 time=2020-01-13 19:34:17', noted in source file state
+2020-01-13 19:34:28: Скопировано поверх 'C:/Users/notau/OneDrive/Рабочий стол/martaup/index.html' -> 'gdrive://www.googleapis.com/2K20/january/index.html' (2 270)
+2020-01-13 19:34:35: == Синхронизация завершена. Время: 00:00:14, Скорость: 324 байт/s, Синхронизировано: 1, Ошибок: 0
+2020-01-13 19:34:37: 

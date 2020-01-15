@@ -1,0 +1,8 @@
+2020-01-12 19:00:33: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2020-01-12 19:00:33: -- Анализ запущен On File Change, After Delay
+2020-01-12 19:00:37: Изменения: 1, Конфликты: 0, Копии времени: 0, Состояние: 0, Ошибки: 0, All: 1161
+2020-01-12 19:00:37: Left to Right: Copy File: 1 
+2020-01-12 19:00:37: == Синхронизация начата On File Change, After Delay
+2020-01-12 19:00:49: Скопировано поверх 'C:/Users/notau/OneDrive/Рабочий стол/martaup/images/header-bg.jpg' -> 'gdrive://www.googleapis.com/2K20/january/images/header-bg.jpg' (480 381)
+2020-01-12 19:00:53: == Синхронизация завершена. Время: 00:00:16, Скорость: 39,0 КБ/s, Синхронизировано: 1, Ошибок: 0
+2020-01-12 19:00:56: 

@@ -1,0 +1,15 @@
+2020-01-14 22:54:31: On File Change Monitoring started on file:///C:/Users/notau/OneDrive/Рабочий стол/martaup
+2020-01-14 22:54:32: On File Change Monitoring started on gdrive://www.googleapis.com/2K20/january
+2020-01-14 22:54:33: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2020-01-14 22:54:33: -- Анализ запущен On File Change First Full Analyze Upon File Monitoring Start
+2020-01-14 22:54:55: Изменения: 6, Конфликты: 0, Копии времени: 0, Состояние: 0, Ошибки: 0, All: 2325
+2020-01-14 22:54:55: Left to Right: Copy File: 6 
+2020-01-14 22:54:55: == Синхронизация начата On File Change First Full Analyze Upon File Monitoring Start
+2020-01-14 22:55:03: Скопировано поверх 'C:/Users/notau/OneDrive/Рабочий стол/martaup/css/style.css' -> 'gdrive://www.googleapis.com/2K20/january/css/style.css' (3 455)
+2020-01-14 22:55:08: Скопирован новый 'C:/Users/notau/OneDrive/Рабочий стол/martaup/images/special-1.svg' -> 'gdrive://www.googleapis.com/2K20/january/images/special-1.svg' (185 253)
+2020-01-14 22:55:11: Скопирован новый 'C:/Users/notau/OneDrive/Рабочий стол/martaup/images/special-2.svg' -> 'gdrive://www.googleapis.com/2K20/january/images/special-2.svg' (36 494)
+2020-01-14 22:55:21: Скопирован новый 'C:/Users/notau/OneDrive/Рабочий стол/martaup/images/special-3.svg' -> 'gdrive://www.googleapis.com/2K20/january/images/special-3.svg' (375 728)
+2020-01-14 22:55:24: Скопирован новый 'C:/Users/notau/OneDrive/Рабочий стол/martaup/images/special-bg.svg' -> 'gdrive://www.googleapis.com/2K20/january/images/special-bg.svg' (531)
+2020-01-14 22:55:32: Скопировано поверх 'C:/Users/notau/OneDrive/Рабочий стол/martaup/index.html' -> 'gdrive://www.googleapis.com/2K20/january/index.html' (7 211)
+2020-01-14 22:55:37: == Синхронизация завершена. Время: 00:00:42, Скорость: 16,3 КБ/s, Синхронизировано: 6, Ошибок: 0
+2020-01-14 22:55:40: 

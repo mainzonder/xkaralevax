@@ -1,0 +1,11 @@
+2020-01-13 23:06:14: Waiting for 8(120) sec on verb GET: Server says: Forbidden (status code 403): Rate Limit Exceeded
+2020-01-13 23:06:22: Recovered the connection, continuing operations
+2020-01-13 23:06:22: == Rename Conflict Losing File is On, expect some weirdness in auto-resolving Vertical Conflicts
+2020-01-13 23:06:23: -- Анализ запущен On File Change, After Delay
+2020-01-13 23:06:27: Изменения: 1, Конфликты: 0, Копии времени: 0, Состояние: 0, Ошибки: 0, All: 2321
+2020-01-13 23:06:27: Left to Right: Copy File: 1 
+2020-01-13 23:06:27: == Синхронизация начата On File Change, After Delay
+2020-01-13 23:06:33: Скопировано поверх 'C:/Users/notau/OneDrive/Рабочий стол/martaup/css/style.css' -> 'gdrive://www.googleapis.com/2K20/january/css/style.css' (2 130)
+2020-01-13 23:06:38: == Синхронизация завершена. Время: 00:00:11, Скорость: 355 байт/s, Синхронизировано: 1, Ошибок: 0
+2020-01-13 23:06:39: Cannot rename lock file to stamp file: copy file: Not Found by server: File not found: 1nx4zMXcI2nCqUp4wRSRRtMmi7w1mWSUK.
+2020-01-13 23:06:40: 
